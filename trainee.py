@@ -1,3 +1,3 @@
 def greet():
-    print("Hello from main")
-    print("New feature")
+    print("Hello from MAIN")
+    print("Hello from FEATURE") 
